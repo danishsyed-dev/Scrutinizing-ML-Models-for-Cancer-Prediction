@@ -100,7 +100,7 @@ If you have questions about this research or would like to collaborate on relate
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-danishsyed--dev-181717?style=for-the-badge&logo=github)](https://github.com/danishsyed-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danishsyed-dev)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Syed-Danish-Ali)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3010-0027)
 
